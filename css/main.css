@@ -299,16 +299,16 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../img/services6.jpeg);
+    background-image: url(../img/services8.jpg);
     background-size: cover;
-    /* background-blend-mode: multiply; */
-    color: var(--clr-grey);
+    /* background-blend-mode: multiply;  */
+    color: var(--clr-dark);
     text-align: center;
     font-family:var(--ff-secondary) Black;
 }
 
 .section__title--services {
-    color: var(--clr-accent);
+    color: var(--clr-dark);
     position: relative;
 }
 
