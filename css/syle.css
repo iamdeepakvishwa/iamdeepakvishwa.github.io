@@ -4,6 +4,7 @@ body {
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    font-family: 'Are You Serious';
 }
 
 .card {
@@ -34,7 +35,6 @@ body {
 }
 
 .card .text-container #head {
-    font-family: 'Nobile', sans-serif;
     font-size: 1.5em;
     margin: 60px auto 60px auto;
 }
@@ -42,7 +42,6 @@ body {
 .card p {
     font-size: 1.1em;
     line-height: 1.4;
-    font-family: 'Nobile';
     color: #331717;
     font-style: italic;
     text-align: center;
